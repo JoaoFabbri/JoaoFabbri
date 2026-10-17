@@ -1,7 +1,7 @@
 <h1 align="center">Oi👋, Eu sou o João Fabbri</h1>
 <h3 align="center">Seja bem vindo ao meu GitHub!</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Engenharia de bancos de dados e IA**
 
 - 💬 Me pergunte sobre **SQL, n8n, Apache HOP, JS e Claude**
 
@@ -20,8 +20,6 @@
   <a href="https://hop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/apache/hop-website/main/static/img/hop-logo.svg" alt="apache hop" width="40" height="40"/> </a>
   <a href="https://claude.ai/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/claude/D97757" alt="claude" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaofabbri&show_icons=true&locale=en&layout=compact" alt="joaofabbri" /></p>
 
 
 
