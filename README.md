@@ -3,9 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 📄 Aqui estão minhas habilidades [https://www.linkedin.com/in/jo%C3%A3o-pedro-fabbri-64a387197/](https://www.linkedin.com/in/jo%C3%A3o-pedro-fabbri-64a387197/)
-
-- 💬 Me pergunte sobre **Power BI, Excel, SQL, Python e Machine Learn**
+- 💬 Me pergunte sobre **SQL, n8n, Apache HOP, JS e Claude**
 
 - 📫 Você me encontrará atavés do e-mail **fabbrijoao1216@gmail.com**
 
